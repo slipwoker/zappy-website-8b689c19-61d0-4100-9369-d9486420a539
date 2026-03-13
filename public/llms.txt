@@ -1,0 +1,60 @@
+# מגן - הנדסה ובטיחות — Generative Engine Optimization Map
+
+> A certified inspector specializing in lifting machinery and pressure equipment, providing professional safety inspection services for industrial equipment. The business focuses on regulatory compliance and safety certification in the industrial sector.
+
+---
+
+## Pages
+
+### בית
+https://-8b689c19.zappy5.app
+בודק מוסמך למכונות הרמה ומתקני לחץ תעשייתיים בישראל. שירותי בדיקה מקצועיים לציוד תעשייתי, אישורי בטיחות ותאימות לתקנות. התקשרו עכשיו לייעוץ חינם!
+
+### שירותים
+https://-8b689c19.zappy5.app/services
+בדיקת מנוף תקופתית במחיר הוגן על ידי בודק מורשה. בדיקות מכונות הרמה, מנופים, מלגזות ומתקני לחץ. שירות מקצועי ומהיר בכל רחבי הארץ. קבלו הצעת מחיר היום!
+
+### תהליכים ותאימות
+https://-8b689c19.zappy5.app/process
+תהליך בדיקה מקיף לתאימות לתקנות בטיחות: בדיקות מתקני לחץ, מכונות הרמה ומנופים. הבנת התהליך המלא מקבלת הזמנה ועד קבלת אישור בטיחות. שקיפות מלאה ומקצועיות!
+
+### צור קשר
+https://-8b689c19.zappy5.app/contact
+צור קשר עם בודק מוסמך למכונות הרמה ומתקני לחץ. קבל הצעת מחיר לבדיקת מנוף תקופתית, ייעוץ מקצועי ותיאום מהיר. זמינים בטלפון, אימייל ווואטסאפ. נשמח לעמוד לשירותכם!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-8b689c19.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-8b689c19.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-8b689c19.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מגן - הנדסה ובטיחות
+A certified inspector specializing in lifting machinery and pressure equipment, providing professional safety inspection services for industrial equipment. The business focuses on regulatory compliance and safety certification in the industrial sector.
+
+## Target Audience
+- מנהלי בטיחות תעשייתית
+- בעלי מפעלים יצרניים
+- מנהלי אחזקת מתקנים
+- מפעילי מחסנים ולוגיסטיקה
+
+## Industry
+בטיחות ובדיקות תעשייתיות
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-8b689c19.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-8b689c19.zappy5.app/robots.txt
